@@ -1,0 +1,56 @@
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# FastAPI
+.pytest_cache/
+.mypy_cache/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Build
+build/
+*.egg-info/
+
+# Temporary
+*.tmp
+*.temp
